@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Zakaria%20Bouadel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Zakariae%20Bouadel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&repeat=true&width=800&lines=Software+Engineer+%7C+AI+Integration+Specialist;Building+Intelligence+Into+Production+Systems;LLMs+%E2%80%A2+Embeddings+%E2%80%A2+NLP+%E2%80%A2+Automation)](https://git.io/typing-svg)
 
@@ -11,7 +11,7 @@
 ### 👨‍💻 About Me
 
 ```typescript
-const zakaria = {
+const zakariae = {
   location: "Casablanca, Morocco 🇲🇦",
   focus: "AI Engineering & LLM Integration",
   philosophy: "AI isn't a feature—it's the foundation",
@@ -97,23 +97,10 @@ Data:
 
 Infrastructure:
   Containerization: [Docker, Kubernetes]
-  Cloud: [AWS (Textract, AI Services), GCP]
-  CI/CD: [GitLab, GitHub Actions]
+  Cloud: [AWS, GCP]
+  CI/CD: [GitLab]
   Message Queues: [RabbitMQ, Kafka]
 ```
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zbouadel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zbouadel&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zbouadel&theme=tokyonight&hide_border=true&background=0d1117" />
-</div>
 
 ---
 
@@ -138,7 +125,6 @@ Infrastructure:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-zakariaebouadel.com-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zakariaebouadel.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-zbouadel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zbouadel)
-[![GitHub](https://img.shields.io/badge/GitHub-Zbouadel-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zbouadel)
 [![Email](https://img.shields.io/badge/Email-zakariaebouadel@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zakariaebouadel@gmail.com)
 
 </div>
