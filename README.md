@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Zakariae Bouadel
+<!-- # ⚡ Zakariae Bouadel -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Software+Engineer+%7C+AI+Integration+Specialist;Building+Intelligence+Into+Production+Systems;LLMs+%E2%80%A2+RAG+%E2%80%A2+NLP+%E2%80%A2+LangChain+%E2%80%A2+Agents)](https://git.io/typing-svg)
 
@@ -15,11 +15,11 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 ```typescript
 const zakariae = {
-  location: "Casablanca, Morocco 🇲🇦",
+  location: "Casablanca, Morocco",
   role: "Software Engineer & Project Lead @ Disrupt",
   focus: "AI Engineering & LLM Integration",
   philosophy: "AI isn't a feature—it's the foundation",
@@ -33,13 +33,13 @@ I specialize in turning LLMs and AI into production-ready solutions that solve r
 
 ---
 
-### 🔥 Featured AI Projects
+### Featured AI Projects
 
 <table>
 <tr>
 <td width="50%">
 
-#### 🎓 Intelligent EdTech Platform — RAG Chatbot & CRM
+#### Intelligent EdTech Platform — RAG Chatbot & CRM
 **Tech:** Next.js • FastAPI • LangChain • ChromaDB • Tesseract OCR
 
 Built a student guidance platform featuring a RAG chatbot that walks students through dynamic questionnaires, an OCR-powered document ingestion pipeline with ChromaDB for semantic search across partner catalogs, and Twenty CRM integration for automated lead capture from conversations.
@@ -49,7 +49,7 @@ Built a student guidance platform featuring a RAG chatbot that walks students th
 </td>
 <td width="50%">
 
-#### 📱 AI Coaching Mobile App
+#### AI Coaching Mobile App
 **Tech:** React Native • Go (Gin) • FastAPI • LangChain • Ollama • Redis
 
 Developed a cross-platform personal coaching app on a polyglot microservice architecture (Go + Python), with JWT + OAuth2 auth (Google & Apple SSO), LLM orchestration via LangChain to self-hosted Mistral (Ollama), offline-first SQLite/MMKV architecture, and a dual-chain gamification system. Orchestrated across 7 Docker Compose services with Redis & Celery for async processing.
@@ -61,7 +61,7 @@ Developed a cross-platform personal coaching app on a polyglot microservice arch
 <tr>
 <td width="50%">
 
-#### 🤖 AI News Aggregation Engine
+#### AI News Aggregation Engine
 **Tech:** Flask • OpenRouter • Embeddings • NLP
 
 Built a fully dynamic scraper that accepts any URL and uses LLMs for extraction, categorization, and summarization. Implemented semantic search with embedding-based filtering and automated multi-channel delivery (WhatsApp/Email/Webhooks).
@@ -71,7 +71,7 @@ Built a fully dynamic scraper that accepts any URL and uses LLMs for extraction,
 </td>
 <td width="50%">
 
-#### ⚖️ Legal Communication Autopilot
+#### Legal Communication Autopilot
 **Tech:** NLP • Intent Classification • Nest.js • Gmail/Outlook APIs
 
 Designed an AI system that interprets email intent, detects valid insurer responses, and autonomously manages follow-up workflows. Intelligently halts redundant follow-ups upon confirmed responses and notifies clients of case status updates via automated WhatsApp messaging.
@@ -83,7 +83,7 @@ Designed an AI system that interprets email intent, detects valid insurer respon
 <tr>
 <td width="50%">
 
-#### 💬 AI Sales & Support Automation Platform
+#### AI Sales & Support Automation Platform
 **Tech:** Generative AI • Meta APIs • Angular • MongoDB
 
 Created an AI-powered customer engagement and scheduling platform across social channels, streamlining operations and reducing manual support efforts by 90% through intelligent dialogue management.
@@ -93,7 +93,7 @@ Created an AI-powered customer engagement and scheduling platform across social 
 </td>
 <td width="50%">
 
-#### 🎮 White-Label Gamification SaaS
+#### White-Label Gamification SaaS
 **Tech:** Next.js • TypeScript • Prisma • PostgreSQL • Clerk • Docker
 
 Architected a multi-tenant SaaS enabling brands to deploy custom games in physical kiosks, with a real-time branding studio, tiered prize win-rate control engine, full multi-tenant isolation, kiosk mode with inactivity detection, and Sentry production monitoring.
@@ -105,7 +105,7 @@ Architected a multi-tenant SaaS enabling brands to deploy custom games in physic
 </table>
 
 <details>
-<summary><b>📂 More Projects</b></summary>
+<summary><b>More Projects</b></summary>
 <br>
 
 | Project | Tech Stack | Description |
@@ -121,7 +121,7 @@ Architected a multi-tenant SaaS enabling brands to deploy custom games in physic
 
 ---
 
-### 🛠️ Tech Arsenal
+### Tech Arsenal
 
 ```yaml
 AI & ML:
@@ -151,7 +151,7 @@ Infrastructure:
 
 ---
 
-### 🎓 Certifications & Learning
+### Certifications & Learning
 
 <div align="center">
 
@@ -168,7 +168,7 @@ Infrastructure:
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 
 <div align="center">
 
@@ -182,7 +182,7 @@ Infrastructure:
 
 <div align="center">
 
-### 💭 Current Focus
+### Current Focus
 
 Building production-grade AI systems | Exploring advanced RAG & Agent architectures | Self-hosting LLMs for edge deployment
 
@@ -193,5 +193,7 @@ Building production-grade AI systems | Exploring advanced RAG & Agent architectu
 </div>
 
 <div align="center">
-<sub>Built with ☕ and a lot of GPU hours</sub>
+
+**Built with ☕ and a lot of GPU hours**
+
 </div>
